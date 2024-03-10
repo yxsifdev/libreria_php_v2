@@ -1,0 +1,124 @@
+{
+    "libros": [
+        {
+            "id": 1,
+            "cantidad_total": 100,
+            "cantidad_disponible": 89,
+            "titulo": "Cien a\u00f1os de soledad",
+            "autor": "Gabriel Garc\u00eda M\u00e1rquez",
+            "genero": "Realismo m\u00e1gico, novela hist\u00f3rica, literatura latinoamericana",
+            "descripcion": "\"Cien a\u00f1os de soledad\" es una obra maestra del realismo m\u00e1gico que narra la historia de la familia Buend\u00eda a lo largo de varias generaciones en el ficticio pueblo de Macondo. Esta novela \u00e9pica explora temas de amor, soledad, poder y destino a trav\u00e9s de un lenguaje deslumbrante y una narrativa envolvente.",
+            "disponible": 1,
+            "estrellas": "4.6\/5",
+            "portada": "..\/..\/assets\/imgs\/libros\/cien_anios_de_soledad.jpg"
+        },
+        {
+            "id": 2,
+            "cantidad_total": 100,
+            "cantidad_disponible": 94,
+            "titulo": "1984",
+            "autor": "George Orwell",
+            "genero": "Distop\u00eda, ficci\u00f3n pol\u00edtica, literatura cl\u00e1sica",
+            "descripcion": "\"1984\" es una novela dist\u00f3pica que presenta un mundo totalitario donde el gobierno controla todos los aspectos de la vida de sus ciudadanos. Winston Smith, el protagonista, lucha contra la opresi\u00f3n del r\u00e9gimen y la manipulaci\u00f3n de la verdad en un mundo dominado por el Gran Hermano.",
+            "disponible": 1,
+            "estrellas": "4.7\/5",
+            "portada": "..\/..\/assets\/imgs\/libros\/1984.jpg"
+        },
+        {
+            "id": 3,
+            "cantidad_total": 100,
+            "cantidad_disponible": 99,
+            "titulo": "El se\u00f1or de los anillos",
+            "autor": "J.R.R. Tolkien",
+            "genero": "Fantas\u00eda \u00e9pica, literatura cl\u00e1sica, aventura",
+            "descripcion": "\"El se\u00f1or de los anillos\" es una trilog\u00eda que sigue las aventuras de Frodo Bols\u00f3n y su misi\u00f3n para destruir el Anillo \u00danico, que puede conceder un poder inmenso a su portador y que el Se\u00f1or Oscuro Sauron busca recuperar para sumir a la Tierra Media en la oscuridad.",
+            "disponible": 1,
+            "estrellas": "4.8\/5",
+            "portada": "..\/..\/assets\/imgs\/libros\/el_senior_de_los_anillos.jpg"
+        },
+        {
+            "id": 4,
+            "cantidad_total": 100,
+            "cantidad_disponible": 98,
+            "titulo": "Orgullo y prejuicio",
+            "autor": "Jane Austen",
+            "genero": "Novela rom\u00e1ntica, literatura cl\u00e1sica, comedia de costumbres",
+            "descripcion": "\"Orgullo y prejuicio\" es una novela que sigue la historia de Elizabeth Bennet y su relaci\u00f3n con el orgulloso y reservado Sr. Darcy. Ambientada en la Inglaterra rural del siglo XIX, la novela de Austen explora temas de matrimonio, clase social y el poder del amor verdadero.",
+            "disponible": 1,
+            "estrellas": "4.6\/5",
+            "portada": "..\/..\/assets\/imgs\/libros\/orgullo_y_prejuicio.jpg"
+        },
+        {
+            "id": 5,
+            "cantidad_total": 100,
+            "cantidad_disponible": 101,
+            "titulo": "Harry Potter y la piedra filosofal",
+            "autor": "J.K. Rowling",
+            "genero": "Fantas\u00eda, literatura juvenil, aventura",
+            "descripcion": "\"Harry Potter y la piedra filosofal\" es el primer libro de la famosa serie de J.K. Rowling que sigue las aventuras del joven mago Harry Potter mientras asiste a la escuela de magia Hogwarts. La historia comienza con la llegada de Harry al mundo de la magia y su descubrimiento de su destino como el \"Ni\u00f1o que vivi\u00f3\".",
+            "disponible": 1,
+            "estrellas": "4.5\/5",
+            "portada": "..\/..\/assets\/imgs\/libros\/harry_potter_y_la_piedra_folosofica.jpg"
+        },
+        {
+            "id": 6,
+            "cantidad_total": 100,
+            "cantidad_disponible": 101,
+            "titulo": "El amor en los tiempos del c\u00f3lera",
+            "autor": "Gabriel Garc\u00eda M\u00e1rquez",
+            "genero": "Realismo m\u00e1gico, novela rom\u00e1ntica, literatura latinoamericana",
+            "descripcion": "\"El amor en los tiempos del c\u00f3lera\" es una historia de amor \u00e9pica que sigue la vida de Florentino Ariza y Fermina Daza a lo largo de m\u00e1s de cincuenta a\u00f1os. Ambientada en Colombia, esta novela de Garc\u00eda M\u00e1rquez explora los temas del amor, la pasi\u00f3n y la perseverancia en medio de una epidemia de c\u00f3lera.",
+            "disponible": 1,
+            "estrellas": "4.6\/5",
+            "portada": "..\/..\/assets\/imgs\/libros\/el_amor_en_los_tiempos_del_colera.jpg"
+        },
+        {
+            "id": 7,
+            "cantidad_total": 100,
+            "cantidad_disponible": 100,
+            "titulo": "Cr\u00f3nica de una muerte anunciada",
+            "autor": "Gabriel Garc\u00eda M\u00e1rquez",
+            "genero": "Realismo m\u00e1gico, novela corta, literatura latinoamericana",
+            "descripcion": "\"Cr\u00f3nica de una muerte anunciada\" narra la historia de un asesinato en un pueblo caribe\u00f1o donde todos saben que va a ocurrir, pero nadie hace nada para evitarlo. Con una estructura narrativa no lineal, esta novela corta de Garc\u00eda M\u00e1rquez explora la naturaleza de la culpa, la violencia y el destino.",
+            "disponible": 1,
+            "estrellas": "4.8\/5",
+            "portada": "..\/..\/assets\/imgs\/libros\/cronica_de_una_muerte_anunciada.jpg"
+        },
+        {
+            "id": 8,
+            "cantidad_total": 100,
+            "cantidad_disponible": 99,
+            "titulo": "Matar a un ruise\u00f1or",
+            "autor": "Harper Lee",
+            "genero": "Ficci\u00f3n cl\u00e1sica, novela judicial, literatura estadounidense",
+            "descripcion": "\"Matar a un ruise\u00f1or\" es una novela cl\u00e1sica que aborda temas de raza, injusticia y moralidad en el sur de Estados Unidos durante la Gran Depresi\u00f3n. La historia est\u00e1 narrada por Scout Finch, una ni\u00f1a que observa c\u00f3mo su padre, el abogado Atticus Finch, defiende a un hombre negro acusado falsamente de violar a una mujer blanca.",
+            "disponible": 1,
+            "estrellas": "4.5\/5",
+            "portada": "..\/..\/assets\/imgs\/libros\/matar_a_un_ruisenior.jpg"
+        },
+        {
+            "id": 9,
+            "cantidad_total": 100,
+            "cantidad_disponible": 100,
+            "titulo": "Don Quijote de la Mancha",
+            "autor": "Miguel de Cervantes",
+            "genero": "Novela de caballer\u00eda, s\u00e1tira, literatura cl\u00e1sica",
+            "descripcion": "\"Don Quijote de la Mancha\" es una obra maestra de la literatura universal que sigue las aventuras del caballero Don Quijote y su fiel escudero Sancho Panza. La novela de Cervantes es una s\u00e1tira de las novelas de caballer\u00eda de la \u00e9poca y una reflexi\u00f3n sobre la realidad y la fantas\u00eda.",
+            "disponible": 1,
+            "estrellas": "4.7\/5",
+            "portada": "..\/..\/assets\/imgs\/libros\/don_quijote_de_la_mancha.jpg"
+        },
+        {
+            "id": 10,
+            "cantidad_total": 100,
+            "cantidad_disponible": 99,
+            "titulo": "Los miserables",
+            "autor": "Victor Hugo",
+            "genero": "Novela hist\u00f3rica, drama, literatura cl\u00e1sica",
+            "descripcion": "\"Los miserables\" es una \u00e9pica novela que sigue la vida de varios personajes durante un per\u00edodo tumultuoso de la historia francesa. La historia principal gira en torno a Jean Valjean, un exconvicto que busca redenci\u00f3n, y su enfrentamiento con el implacable inspector Javert. La novela de Hugo aborda temas de justicia social, redenci\u00f3n y el poder del amor.",
+            "disponible": 1,
+            "estrellas": "4.8\/5",
+            "portada": "..\/..\/assets\/imgs\/libros\/los_miserables.jpg"
+        }
+    ]
+}
